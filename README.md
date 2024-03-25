@@ -17,7 +17,7 @@
 
 - Collabrate : { Self }
 
-- URL : https://github.com/BinaryApp/
+- URL : <https://github.com/MayankDevil/BinaryApp/>
 
 #### Project Look & Feel
 
