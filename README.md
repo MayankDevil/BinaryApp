@@ -49,7 +49,7 @@ g++ -Wall -o main App.cpp
 
 ### Copyright Notice
 
-Copyright (c) 2024 by _Mayank_ & _HRitik_. All Rights Reserved.                *
+Copyright (c) by _Mayank_ All Rights Reserved.                *
 
 __This Project is the property of Mayank and is protected under copyright law. Unauthorized reproduction, distribution, or disclosure of this Project , or any part of its contents, is strictly prohibited.__
 
